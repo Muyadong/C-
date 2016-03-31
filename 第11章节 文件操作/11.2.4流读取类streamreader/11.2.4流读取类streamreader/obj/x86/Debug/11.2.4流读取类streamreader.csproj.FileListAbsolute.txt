@@ -1,0 +1,4 @@
+F:\VS C#文件\第11章节 文件操作\11.2.4流读取类streamreader\11.2.4流读取类streamreader\bin\Debug\11.2.4流读取类streamreader.exe
+F:\VS C#文件\第11章节 文件操作\11.2.4流读取类streamreader\11.2.4流读取类streamreader\bin\Debug\11.2.4流读取类streamreader.pdb
+F:\VS C#文件\第11章节 文件操作\11.2.4流读取类streamreader\11.2.4流读取类streamreader\obj\x86\Debug\11.2.4流读取类streamreader.exe
+F:\VS C#文件\第11章节 文件操作\11.2.4流读取类streamreader\11.2.4流读取类streamreader\obj\x86\Debug\11.2.4流读取类streamreader.pdb

@@ -1,0 +1,4 @@
+F:\VS C#文件\第11章节 文件操作\11.2.5BinaryWriter二进制流写入类\11.2.5BinaryWriter二进制流写入类\bin\Debug\11.2.5BinaryWriter二进制流写入类.exe
+F:\VS C#文件\第11章节 文件操作\11.2.5BinaryWriter二进制流写入类\11.2.5BinaryWriter二进制流写入类\bin\Debug\11.2.5BinaryWriter二进制流写入类.pdb
+F:\VS C#文件\第11章节 文件操作\11.2.5BinaryWriter二进制流写入类\11.2.5BinaryWriter二进制流写入类\obj\x86\Debug\11.2.5BinaryWriter二进制流写入类.exe
+F:\VS C#文件\第11章节 文件操作\11.2.5BinaryWriter二进制流写入类\11.2.5BinaryWriter二进制流写入类\obj\x86\Debug\11.2.5BinaryWriter二进制流写入类.pdb

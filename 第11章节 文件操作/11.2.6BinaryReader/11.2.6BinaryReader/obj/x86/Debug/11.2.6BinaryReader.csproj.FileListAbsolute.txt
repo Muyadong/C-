@@ -1,0 +1,4 @@
+F:\VS C#文件\第11章节 文件操作\11.2.6BinaryReader\11.2.6BinaryReader\bin\Debug\11.2.6BinaryReader.exe
+F:\VS C#文件\第11章节 文件操作\11.2.6BinaryReader\11.2.6BinaryReader\bin\Debug\11.2.6BinaryReader.pdb
+F:\VS C#文件\第11章节 文件操作\11.2.6BinaryReader\11.2.6BinaryReader\obj\x86\Debug\11.2.6BinaryReader.exe
+F:\VS C#文件\第11章节 文件操作\11.2.6BinaryReader\11.2.6BinaryReader\obj\x86\Debug\11.2.6BinaryReader.pdb

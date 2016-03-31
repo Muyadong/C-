@@ -1,0 +1,4 @@
+F:\VS C#文件\第11章节 文件操作\11.2.3流写入类 streamwriter\11.2.3流写入类 streamwriter\bin\Debug\11.2.3流写入类 streamwriter.exe
+F:\VS C#文件\第11章节 文件操作\11.2.3流写入类 streamwriter\11.2.3流写入类 streamwriter\bin\Debug\11.2.3流写入类 streamwriter.pdb
+F:\VS C#文件\第11章节 文件操作\11.2.3流写入类 streamwriter\11.2.3流写入类 streamwriter\obj\x86\Debug\11.2.3流写入类 streamwriter.exe
+F:\VS C#文件\第11章节 文件操作\11.2.3流写入类 streamwriter\11.2.3流写入类 streamwriter\obj\x86\Debug\11.2.3流写入类 streamwriter.pdb
