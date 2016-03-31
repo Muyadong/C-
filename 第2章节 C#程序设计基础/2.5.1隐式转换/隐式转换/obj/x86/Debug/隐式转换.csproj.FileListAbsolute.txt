@@ -1,0 +1,6 @@
+F:\VS C#文件\第二章节\隐式转换\隐式转换\bin\Debug\隐式转换.exe
+F:\VS C#文件\第二章节\隐式转换\隐式转换\bin\Debug\隐式转换.pdb
+F:\VS C#文件\第二章节\隐式转换\隐式转换\obj\x86\Debug\隐式转换.exe
+F:\VS C#文件\第二章节\隐式转换\隐式转换\obj\x86\Debug\隐式转换.pdb
+F:\VS C#文件\第二章节\2.5.1隐式转换\隐式转换\obj\x86\Debug\隐式转换.exe
+F:\VS C#文件\第二章节\2.5.1隐式转换\隐式转换\obj\x86\Debug\隐式转换.pdb

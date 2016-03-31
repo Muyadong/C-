@@ -1,0 +1,4 @@
+F:\VS C#文件\第二章节\显示转换\显示转换\bin\Debug\显示转换.exe
+F:\VS C#文件\第二章节\显示转换\显示转换\bin\Debug\显示转换.pdb
+F:\VS C#文件\第二章节\显示转换\显示转换\obj\x86\Debug\显示转换.exe
+F:\VS C#文件\第二章节\显示转换\显示转换\obj\x86\Debug\显示转换.pdb

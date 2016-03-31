@@ -1,0 +1,4 @@
+F:\VS C#文件\第二章节\2.9.2CharToNumber\2.9.2CharToNumber\bin\Debug\2.9.2CharToNumber.exe
+F:\VS C#文件\第二章节\2.9.2CharToNumber\2.9.2CharToNumber\bin\Debug\2.9.2CharToNumber.pdb
+F:\VS C#文件\第二章节\2.9.2CharToNumber\2.9.2CharToNumber\obj\x86\Debug\2.9.2CharToNumber.exe
+F:\VS C#文件\第二章节\2.9.2CharToNumber\2.9.2CharToNumber\obj\x86\Debug\2.9.2CharToNumber.pdb

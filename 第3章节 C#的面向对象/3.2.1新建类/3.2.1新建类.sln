@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.2.1新建类", "3.2.1新建类\3.2.1新建类.csproj", "{F5EB5578-DFDF-4CF4-8C0B-CDD4C5AEE029}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5EB5578-DFDF-4CF4-8C0B-CDD4C5AEE029}.Debug|x86.ActiveCfg = Debug|x86
+		{F5EB5578-DFDF-4CF4-8C0B-CDD4C5AEE029}.Debug|x86.Build.0 = Debug|x86
+		{F5EB5578-DFDF-4CF4-8C0B-CDD4C5AEE029}.Release|x86.ActiveCfg = Release|x86
+		{F5EB5578-DFDF-4CF4-8C0B-CDD4C5AEE029}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+F:\VS C#文件\第3章节\3.3.1params关键字\3.3.1params关键字\bin\Debug\3.3.1params关键字.exe
+F:\VS C#文件\第3章节\3.3.1params关键字\3.3.1params关键字\bin\Debug\3.3.1params关键字.pdb
+F:\VS C#文件\第3章节\3.3.1params关键字\3.3.1params关键字\obj\x86\Debug\3.3.1params关键字.exe
+F:\VS C#文件\第3章节\3.3.1params关键字\3.3.1params关键字\obj\x86\Debug\3.3.1params关键字.pdb

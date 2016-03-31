@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.6.1算术运算符", "2.6.1算术运算符\2.6.1算术运算符.csproj", "{E9D4A512-B51B-4099-BB17-5A7EA91948CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9D4A512-B51B-4099-BB17-5A7EA91948CF}.Debug|x86.ActiveCfg = Debug|x86
+		{E9D4A512-B51B-4099-BB17-5A7EA91948CF}.Debug|x86.Build.0 = Debug|x86
+		{E9D4A512-B51B-4099-BB17-5A7EA91948CF}.Release|x86.ActiveCfg = Release|x86
+		{E9D4A512-B51B-4099-BB17-5A7EA91948CF}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

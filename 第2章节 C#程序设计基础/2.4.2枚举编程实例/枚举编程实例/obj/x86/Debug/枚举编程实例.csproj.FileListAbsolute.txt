@@ -1,0 +1,4 @@
+F:\VS C#文件\枚举编程实例\枚举编程实例\bin\Debug\枚举编程实例.exe
+F:\VS C#文件\枚举编程实例\枚举编程实例\bin\Debug\枚举编程实例.pdb
+F:\VS C#文件\枚举编程实例\枚举编程实例\obj\x86\Debug\枚举编程实例.exe
+F:\VS C#文件\枚举编程实例\枚举编程实例\obj\x86\Debug\枚举编程实例.pdb

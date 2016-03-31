@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.2.3调用类的方法", "3.2.3调用类的方法\3.2.3调用类的方法.csproj", "{470DADB7-10CA-425E-B2A5-0AFE72A4EF23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{470DADB7-10CA-425E-B2A5-0AFE72A4EF23}.Debug|x86.ActiveCfg = Debug|x86
+		{470DADB7-10CA-425E-B2A5-0AFE72A4EF23}.Debug|x86.Build.0 = Debug|x86
+		{470DADB7-10CA-425E-B2A5-0AFE72A4EF23}.Release|x86.ActiveCfg = Release|x86
+		{470DADB7-10CA-425E-B2A5-0AFE72A4EF23}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

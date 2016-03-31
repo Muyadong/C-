@@ -1,0 +1,4 @@
+F:\VS C#文件\第二章节\2.9.3for语句\2.9.3for语句\bin\Debug\2.9.3for语句.exe
+F:\VS C#文件\第二章节\2.9.3for语句\2.9.3for语句\bin\Debug\2.9.3for语句.pdb
+F:\VS C#文件\第二章节\2.9.3for语句\2.9.3for语句\obj\x86\Debug\2.9.3for语句.exe
+F:\VS C#文件\第二章节\2.9.3for语句\2.9.3for语句\obj\x86\Debug\2.9.3for语句.pdb
