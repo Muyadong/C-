@@ -1,0 +1,7 @@
+F:\VS C#文件\第9章节\9.3.8菜单\9.3.8菜单\bin\Debug\9.3.8菜单.exe
+F:\VS C#文件\第9章节\9.3.8菜单\9.3.8菜单\bin\Debug\9.3.8菜单.pdb
+F:\VS C#文件\第9章节\9.3.8菜单\9.3.8菜单\obj\x86\Debug\_9._3._8菜单.Form1.resources
+F:\VS C#文件\第9章节\9.3.8菜单\9.3.8菜单\obj\x86\Debug\_9._3._8菜单.Properties.Resources.resources
+F:\VS C#文件\第9章节\9.3.8菜单\9.3.8菜单\obj\x86\Debug\9.3.8菜单.csproj.GenerateResource.Cache
+F:\VS C#文件\第9章节\9.3.8菜单\9.3.8菜单\obj\x86\Debug\9.3.8菜单.exe
+F:\VS C#文件\第9章节\9.3.8菜单\9.3.8菜单\obj\x86\Debug\9.3.8菜单.pdb

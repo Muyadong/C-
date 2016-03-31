@@ -1,0 +1,4 @@
+F:\VS C#文件\第9章节 Windows窗体应用程序\9.4.3 Regular效验控件的使用\9.4.3 Regular效验控件的使用\bin\9.4.3 Regular效验控件的使用.dll
+F:\VS C#文件\第9章节 Windows窗体应用程序\9.4.3 Regular效验控件的使用\9.4.3 Regular效验控件的使用\bin\9.4.3 Regular效验控件的使用.pdb
+F:\VS C#文件\第9章节 Windows窗体应用程序\9.4.3 Regular效验控件的使用\9.4.3 Regular效验控件的使用\obj\Debug\9.4.3 Regular效验控件的使用.dll
+F:\VS C#文件\第9章节 Windows窗体应用程序\9.4.3 Regular效验控件的使用\9.4.3 Regular效验控件的使用\obj\Debug\9.4.3 Regular效验控件的使用.pdb

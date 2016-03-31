@@ -1,0 +1,4 @@
+F:\VS C#文件\第9章节 Windows窗体应用程序\9.4.4CompareValidator效验\9.4.4CompareValidator效验\bin\9.4.4CompareValidator效验.dll
+F:\VS C#文件\第9章节 Windows窗体应用程序\9.4.4CompareValidator效验\9.4.4CompareValidator效验\bin\9.4.4CompareValidator效验.pdb
+F:\VS C#文件\第9章节 Windows窗体应用程序\9.4.4CompareValidator效验\9.4.4CompareValidator效验\obj\Debug\9.4.4CompareValidator效验.dll
+F:\VS C#文件\第9章节 Windows窗体应用程序\9.4.4CompareValidator效验\9.4.4CompareValidator效验\obj\Debug\9.4.4CompareValidator效验.pdb
