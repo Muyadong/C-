@@ -1,0 +1,7 @@
+F:\VS C#文件\HelloWorld_WinForm\HelloWorld_WinForm\bin\Debug\HelloWorld_WinForm.exe
+F:\VS C#文件\HelloWorld_WinForm\HelloWorld_WinForm\bin\Debug\HelloWorld_WinForm.pdb
+F:\VS C#文件\HelloWorld_WinForm\HelloWorld_WinForm\obj\x86\Debug\HelloWorld_WinForm.frmHelloWorld.resources
+F:\VS C#文件\HelloWorld_WinForm\HelloWorld_WinForm\obj\x86\Debug\HelloWorld_WinForm.Properties.Resources.resources
+F:\VS C#文件\HelloWorld_WinForm\HelloWorld_WinForm\obj\x86\Debug\HelloWorld_WinForm.csproj.GenerateResource.Cache
+F:\VS C#文件\HelloWorld_WinForm\HelloWorld_WinForm\obj\x86\Debug\HelloWorld_WinForm.exe
+F:\VS C#文件\HelloWorld_WinForm\HelloWorld_WinForm\obj\x86\Debug\HelloWorld_WinForm.pdb

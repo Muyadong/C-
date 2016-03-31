@@ -1,0 +1,5 @@
+F:\VS C#文件\HelloWorld_Console\HelloWorld_Console\bin\Debug\HelloWorld_Console.exe
+F:\VS C#文件\HelloWorld_Console\HelloWorld_Console\bin\Debug\HelloWorld_Console.pdb
+F:\VS C#文件\HelloWorld_Console\HelloWorld_Console\obj\x86\Debug\HelloWorld_Console.exe
+F:\VS C#文件\HelloWorld_Console\HelloWorld_Console\obj\x86\Debug\HelloWorld_Console.pdb
+F:\VS C#文件\HelloWorld_Console\HelloWorld_Console\obj\x86\Debug\HelloWorld_Console.csprojResolveAssemblyReference.cache
