@@ -1,0 +1,4 @@
+F:\VS C#文件\第12章节 可扩展标记语言XML\22\22\bin\Debug\22.exe
+F:\VS C#文件\第12章节 可扩展标记语言XML\22\22\bin\Debug\22.pdb
+F:\VS C#文件\第12章节 可扩展标记语言XML\22\22\obj\x86\Debug\22.exe
+F:\VS C#文件\第12章节 可扩展标记语言XML\22\22\obj\x86\Debug\22.pdb

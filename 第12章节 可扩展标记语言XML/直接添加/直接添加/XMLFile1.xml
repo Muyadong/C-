@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone ="yes"?>
+<Employees>
+  <Employee>
+    <Name>小伙</Name>
+    <age>23</age>
+    <wage>5678</wage>
+    <action>true</action>
+    <ssn>456-98765</ssn>
+  </Employee>
+</Employees> 

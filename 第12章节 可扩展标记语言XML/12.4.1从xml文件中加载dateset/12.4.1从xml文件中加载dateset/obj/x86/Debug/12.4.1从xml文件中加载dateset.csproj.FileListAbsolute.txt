@@ -1,0 +1,4 @@
+F:\VS C#文件\第12章节 可扩展标记语言XML\12.4.1从xml文件中加载dateset\12.4.1从xml文件中加载dateset\bin\Debug\12.4.1从xml文件中加载dateset.exe
+F:\VS C#文件\第12章节 可扩展标记语言XML\12.4.1从xml文件中加载dateset\12.4.1从xml文件中加载dateset\bin\Debug\12.4.1从xml文件中加载dateset.pdb
+F:\VS C#文件\第12章节 可扩展标记语言XML\12.4.1从xml文件中加载dateset\12.4.1从xml文件中加载dateset\obj\x86\Debug\12.4.1从xml文件中加载dateset.exe
+F:\VS C#文件\第12章节 可扩展标记语言XML\12.4.1从xml文件中加载dateset\12.4.1从xml文件中加载dateset\obj\x86\Debug\12.4.1从xml文件中加载dateset.pdb

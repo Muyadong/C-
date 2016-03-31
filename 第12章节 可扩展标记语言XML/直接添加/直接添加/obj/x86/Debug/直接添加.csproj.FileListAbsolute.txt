@@ -1,0 +1,4 @@
+F:\VS C#文件\第12章节 可扩展标记语言XML\直接添加\直接添加\bin\Debug\直接添加.exe
+F:\VS C#文件\第12章节 可扩展标记语言XML\直接添加\直接添加\bin\Debug\直接添加.pdb
+F:\VS C#文件\第12章节 可扩展标记语言XML\直接添加\直接添加\obj\x86\Debug\直接添加.exe
+F:\VS C#文件\第12章节 可扩展标记语言XML\直接添加\直接添加\obj\x86\Debug\直接添加.pdb

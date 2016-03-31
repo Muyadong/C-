@@ -1,0 +1,4 @@
+F:\VS C#文件\第12章节 可扩展标记语言XML\12.4.2从xml字符串中加载dataset\12.4.2从xml字符串中加载dataset\bin\Debug\12.4.2从xml字符串中加载dataset.exe
+F:\VS C#文件\第12章节 可扩展标记语言XML\12.4.2从xml字符串中加载dataset\12.4.2从xml字符串中加载dataset\bin\Debug\12.4.2从xml字符串中加载dataset.pdb
+F:\VS C#文件\第12章节 可扩展标记语言XML\12.4.2从xml字符串中加载dataset\12.4.2从xml字符串中加载dataset\obj\x86\Debug\12.4.2从xml字符串中加载dataset.exe
+F:\VS C#文件\第12章节 可扩展标记语言XML\12.4.2从xml字符串中加载dataset\12.4.2从xml字符串中加载dataset\obj\x86\Debug\12.4.2从xml字符串中加载dataset.pdb

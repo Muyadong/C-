@@ -1,0 +1,5 @@
+F:\VS C#文件\第12章节 可扩展标记语言XML\测试\测试\bin\Debug\测试.exe
+F:\VS C#文件\第12章节 可扩展标记语言XML\测试\测试\bin\Debug\测试.pdb
+F:\VS C#文件\第12章节 可扩展标记语言XML\测试\测试\obj\x86\Debug\测试.exe
+F:\VS C#文件\第12章节 可扩展标记语言XML\测试\测试\obj\x86\Debug\测试.pdb
+F:\VS C#文件\第12章节 可扩展标记语言XML\测试\测试\obj\x86\Debug\测试.csprojResolveAssemblyReference.cache

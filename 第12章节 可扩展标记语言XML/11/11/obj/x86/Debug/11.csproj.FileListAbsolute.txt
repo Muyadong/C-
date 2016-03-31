@@ -1,0 +1,5 @@
+F:\VS C#文件\第12章节 可扩展标记语言XML\11\11\bin\Debug\11.exe
+F:\VS C#文件\第12章节 可扩展标记语言XML\11\11\bin\Debug\11.pdb
+F:\VS C#文件\第12章节 可扩展标记语言XML\11\11\obj\x86\Debug\11.exe
+F:\VS C#文件\第12章节 可扩展标记语言XML\11\11\obj\x86\Debug\11.pdb
+F:\VS C#文件\第12章节 可扩展标记语言XML\11\11\obj\x86\Debug\11.csprojResolveAssemblyReference.cache

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<users>
+  <user>
+    <name>zhangan</name>
+    <sex>male</sex>
+    <age>1234</age>
+  </user>
+  <user>
+    <name>lisi</name>
+    <sex>remale</sex>
+    <age>4567</age>
+  </user>
+</users>

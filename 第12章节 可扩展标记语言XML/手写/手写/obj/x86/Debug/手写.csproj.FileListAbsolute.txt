@@ -1,0 +1,4 @@
+F:\VS C#文件\第12章节 可扩展标记语言XML\手写\手写\bin\Debug\手写.exe
+F:\VS C#文件\第12章节 可扩展标记语言XML\手写\手写\bin\Debug\手写.pdb
+F:\VS C#文件\第12章节 可扩展标记语言XML\手写\手写\obj\x86\Debug\手写.exe
+F:\VS C#文件\第12章节 可扩展标记语言XML\手写\手写\obj\x86\Debug\手写.pdb
