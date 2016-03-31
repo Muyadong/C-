@@ -1,0 +1,4 @@
+F:\VS C#文件\第7章节\7.5.1ArrayList类的常用操作\7.5.1ArrayList类的常用操作\bin\Debug\7.5.1ArrayList类的常用操作.exe
+F:\VS C#文件\第7章节\7.5.1ArrayList类的常用操作\7.5.1ArrayList类的常用操作\bin\Debug\7.5.1ArrayList类的常用操作.pdb
+F:\VS C#文件\第7章节\7.5.1ArrayList类的常用操作\7.5.1ArrayList类的常用操作\obj\x86\Debug\7.5.1ArrayList类的常用操作.exe
+F:\VS C#文件\第7章节\7.5.1ArrayList类的常用操作\7.5.1ArrayList类的常用操作\obj\x86\Debug\7.5.1ArrayList类的常用操作.pdb

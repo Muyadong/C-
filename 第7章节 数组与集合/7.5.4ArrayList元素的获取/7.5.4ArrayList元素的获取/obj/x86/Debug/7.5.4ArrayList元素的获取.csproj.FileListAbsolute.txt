@@ -1,0 +1,4 @@
+F:\VS C#文件\第7章节\7.5.4ArrayList元素的获取\7.5.4ArrayList元素的获取\bin\Debug\7.5.4ArrayList元素的获取.exe
+F:\VS C#文件\第7章节\7.5.4ArrayList元素的获取\7.5.4ArrayList元素的获取\bin\Debug\7.5.4ArrayList元素的获取.pdb
+F:\VS C#文件\第7章节\7.5.4ArrayList元素的获取\7.5.4ArrayList元素的获取\obj\x86\Debug\7.5.4ArrayList元素的获取.exe
+F:\VS C#文件\第7章节\7.5.4ArrayList元素的获取\7.5.4ArrayList元素的获取\obj\x86\Debug\7.5.4ArrayList元素的获取.pdb

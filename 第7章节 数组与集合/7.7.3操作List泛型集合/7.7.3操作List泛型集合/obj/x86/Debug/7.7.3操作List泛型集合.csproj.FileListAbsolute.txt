@@ -1,0 +1,4 @@
+F:\VS C#文件\第7章节\7.7.3操作List泛型集合\7.7.3操作List泛型集合\bin\Debug\7.7.3操作List泛型集合.exe
+F:\VS C#文件\第7章节\7.7.3操作List泛型集合\7.7.3操作List泛型集合\bin\Debug\7.7.3操作List泛型集合.pdb
+F:\VS C#文件\第7章节\7.7.3操作List泛型集合\7.7.3操作List泛型集合\obj\x86\Debug\7.7.3操作List泛型集合.exe
+F:\VS C#文件\第7章节\7.7.3操作List泛型集合\7.7.3操作List泛型集合\obj\x86\Debug\7.7.3操作List泛型集合.pdb
