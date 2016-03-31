@@ -1,0 +1,7 @@
+F:\VS C#文件\第10章节 GDI+绘制图形\10.5.2图像的剪切\10.5.2图像的剪切\bin\Debug\10.5.2图像的剪切.exe
+F:\VS C#文件\第10章节 GDI+绘制图形\10.5.2图像的剪切\10.5.2图像的剪切\bin\Debug\10.5.2图像的剪切.pdb
+F:\VS C#文件\第10章节 GDI+绘制图形\10.5.2图像的剪切\10.5.2图像的剪切\obj\x86\Debug\_10._5._2图像的剪切.Form1.resources
+F:\VS C#文件\第10章节 GDI+绘制图形\10.5.2图像的剪切\10.5.2图像的剪切\obj\x86\Debug\_10._5._2图像的剪切.Properties.Resources.resources
+F:\VS C#文件\第10章节 GDI+绘制图形\10.5.2图像的剪切\10.5.2图像的剪切\obj\x86\Debug\10.5.2图像的剪切.csproj.GenerateResource.Cache
+F:\VS C#文件\第10章节 GDI+绘制图形\10.5.2图像的剪切\10.5.2图像的剪切\obj\x86\Debug\10.5.2图像的剪切.exe
+F:\VS C#文件\第10章节 GDI+绘制图形\10.5.2图像的剪切\10.5.2图像的剪切\obj\x86\Debug\10.5.2图像的剪切.pdb

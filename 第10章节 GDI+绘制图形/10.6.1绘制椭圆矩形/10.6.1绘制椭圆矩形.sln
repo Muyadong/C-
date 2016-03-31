@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.6.1绘制椭圆矩形", "10.6.1绘制椭圆矩形\10.6.1绘制椭圆矩形.csproj", "{C4BB3DAB-1A2B-4BD6-B174-53B71825F305}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4BB3DAB-1A2B-4BD6-B174-53B71825F305}.Debug|x86.ActiveCfg = Debug|x86
+		{C4BB3DAB-1A2B-4BD6-B174-53B71825F305}.Debug|x86.Build.0 = Debug|x86
+		{C4BB3DAB-1A2B-4BD6-B174-53B71825F305}.Release|x86.ActiveCfg = Release|x86
+		{C4BB3DAB-1A2B-4BD6-B174-53B71825F305}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

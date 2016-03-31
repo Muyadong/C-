@@ -1,0 +1,7 @@
+F:\VS C#文件\第10章节 GDI+绘制图形\10.1测试\10.1测试\bin\Debug\10.1测试.exe
+F:\VS C#文件\第10章节 GDI+绘制图形\10.1测试\10.1测试\bin\Debug\10.1测试.pdb
+F:\VS C#文件\第10章节 GDI+绘制图形\10.1测试\10.1测试\obj\x86\Debug\_10._1测试.Properties.Resources.resources
+F:\VS C#文件\第10章节 GDI+绘制图形\10.1测试\10.1测试\obj\x86\Debug\10.1测试.csproj.GenerateResource.Cache
+F:\VS C#文件\第10章节 GDI+绘制图形\10.1测试\10.1测试\obj\x86\Debug\10.1测试.exe
+F:\VS C#文件\第10章节 GDI+绘制图形\10.1测试\10.1测试\obj\x86\Debug\10.1测试.pdb
+F:\VS C#文件\第10章节 GDI+绘制图形\10.1测试\10.1测试\obj\x86\Debug\_10._1测试.Form1.resources

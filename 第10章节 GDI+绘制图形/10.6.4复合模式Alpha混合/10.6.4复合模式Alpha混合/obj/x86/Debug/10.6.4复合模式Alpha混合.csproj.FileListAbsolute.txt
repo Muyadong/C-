@@ -1,0 +1,6 @@
+F:\VS C#文件\第10章节 GDI+绘制图形\10.6.4复合模式Alpha混合\10.6.4复合模式Alpha混合\bin\Debug\10.6.4复合模式Alpha混合.exe
+F:\VS C#文件\第10章节 GDI+绘制图形\10.6.4复合模式Alpha混合\10.6.4复合模式Alpha混合\bin\Debug\10.6.4复合模式Alpha混合.pdb
+F:\VS C#文件\第10章节 GDI+绘制图形\10.6.4复合模式Alpha混合\10.6.4复合模式Alpha混合\obj\x86\Debug\_10._6._4复合模式Alpha混合.Properties.Resources.resources
+F:\VS C#文件\第10章节 GDI+绘制图形\10.6.4复合模式Alpha混合\10.6.4复合模式Alpha混合\obj\x86\Debug\10.6.4复合模式Alpha混合.csproj.GenerateResource.Cache
+F:\VS C#文件\第10章节 GDI+绘制图形\10.6.4复合模式Alpha混合\10.6.4复合模式Alpha混合\obj\x86\Debug\10.6.4复合模式Alpha混合.exe
+F:\VS C#文件\第10章节 GDI+绘制图形\10.6.4复合模式Alpha混合\10.6.4复合模式Alpha混合\obj\x86\Debug\10.6.4复合模式Alpha混合.pdb

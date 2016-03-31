@@ -1,0 +1,7 @@
+F:\VS C#文件\第10章节 GDI+绘制图形\10.2GDI+画点\10.2GDI+画点\bin\Debug\10.2GDI+画点.exe
+F:\VS C#文件\第10章节 GDI+绘制图形\10.2GDI+画点\10.2GDI+画点\bin\Debug\10.2GDI+画点.pdb
+F:\VS C#文件\第10章节 GDI+绘制图形\10.2GDI+画点\10.2GDI+画点\obj\x86\Debug\_10._2GDI_画点.Form1.resources
+F:\VS C#文件\第10章节 GDI+绘制图形\10.2GDI+画点\10.2GDI+画点\obj\x86\Debug\_10._2GDI_画点.Properties.Resources.resources
+F:\VS C#文件\第10章节 GDI+绘制图形\10.2GDI+画点\10.2GDI+画点\obj\x86\Debug\10.2GDI+画点.csproj.GenerateResource.Cache
+F:\VS C#文件\第10章节 GDI+绘制图形\10.2GDI+画点\10.2GDI+画点\obj\x86\Debug\10.2GDI+画点.exe
+F:\VS C#文件\第10章节 GDI+绘制图形\10.2GDI+画点\10.2GDI+画点\obj\x86\Debug\10.2GDI+画点.pdb

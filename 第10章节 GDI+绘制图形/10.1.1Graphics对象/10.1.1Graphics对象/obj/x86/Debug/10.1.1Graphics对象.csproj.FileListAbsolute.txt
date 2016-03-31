@@ -1,0 +1,7 @@
+F:\VS C#文件\第10章节 GDI+绘制图形\10.1.1Graphics对象\10.1.1Graphics对象\bin\Debug\10.1.1Graphics对象.exe
+F:\VS C#文件\第10章节 GDI+绘制图形\10.1.1Graphics对象\10.1.1Graphics对象\bin\Debug\10.1.1Graphics对象.pdb
+F:\VS C#文件\第10章节 GDI+绘制图形\10.1.1Graphics对象\10.1.1Graphics对象\obj\x86\Debug\_10._1._1Graphics对象.Form1.resources
+F:\VS C#文件\第10章节 GDI+绘制图形\10.1.1Graphics对象\10.1.1Graphics对象\obj\x86\Debug\_10._1._1Graphics对象.Properties.Resources.resources
+F:\VS C#文件\第10章节 GDI+绘制图形\10.1.1Graphics对象\10.1.1Graphics对象\obj\x86\Debug\10.1.1Graphics对象.csproj.GenerateResource.Cache
+F:\VS C#文件\第10章节 GDI+绘制图形\10.1.1Graphics对象\10.1.1Graphics对象\obj\x86\Debug\10.1.1Graphics对象.exe
+F:\VS C#文件\第10章节 GDI+绘制图形\10.1.1Graphics对象\10.1.1Graphics对象\obj\x86\Debug\10.1.1Graphics对象.pdb

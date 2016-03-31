@@ -1,0 +1,7 @@
+F:\VS C#文件\第10章节 GDI+绘制图形\10.5.1GDI+的图像的缩放\10.5.1GDI+的图像的缩放\bin\Debug\10.5.1GDI+的图像的缩放.exe
+F:\VS C#文件\第10章节 GDI+绘制图形\10.5.1GDI+的图像的缩放\10.5.1GDI+的图像的缩放\bin\Debug\10.5.1GDI+的图像的缩放.pdb
+F:\VS C#文件\第10章节 GDI+绘制图形\10.5.1GDI+的图像的缩放\10.5.1GDI+的图像的缩放\obj\x86\Debug\_10._5._1GDI_的图像的缩放.Form1.resources
+F:\VS C#文件\第10章节 GDI+绘制图形\10.5.1GDI+的图像的缩放\10.5.1GDI+的图像的缩放\obj\x86\Debug\_10._5._1GDI_的图像的缩放.Properties.Resources.resources
+F:\VS C#文件\第10章节 GDI+绘制图形\10.5.1GDI+的图像的缩放\10.5.1GDI+的图像的缩放\obj\x86\Debug\10.5.1GDI+的图像的缩放.csproj.GenerateResource.Cache
+F:\VS C#文件\第10章节 GDI+绘制图形\10.5.1GDI+的图像的缩放\10.5.1GDI+的图像的缩放\obj\x86\Debug\10.5.1GDI+的图像的缩放.exe
+F:\VS C#文件\第10章节 GDI+绘制图形\10.5.1GDI+的图像的缩放\10.5.1GDI+的图像的缩放\obj\x86\Debug\10.5.1GDI+的图像的缩放.pdb

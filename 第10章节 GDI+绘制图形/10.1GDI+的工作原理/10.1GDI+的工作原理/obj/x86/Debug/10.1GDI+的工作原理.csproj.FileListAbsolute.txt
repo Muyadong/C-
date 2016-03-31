@@ -1,0 +1,8 @@
+F:\VS C#文件\第10章节 GDI+绘制图形\10.1GDI+的工作原理\10.1GDI+的工作原理\obj\x86\Debug\_10._1GDI_的工作原理.Form1.resources
+F:\VS C#文件\第10章节 GDI+绘制图形\10.1GDI+的工作原理\10.1GDI+的工作原理\obj\x86\Debug\_10._1GDI_的工作原理.Properties.Resources.resources
+F:\VS C#文件\第10章节 GDI+绘制图形\10.1GDI+的工作原理\10.1GDI+的工作原理\obj\x86\Debug\10.1GDI+的工作原理.csproj.GenerateResource.Cache
+F:\VS C#文件\第10章节 GDI+绘制图形\10.1GDI+的工作原理\10.1GDI+的工作原理\obj\x86\Debug\10.1GDI+的工作原理.csprojResolveAssemblyReference.cache
+F:\VS C#文件\第10章节 GDI+绘制图形\10.1GDI+的工作原理\10.1GDI+的工作原理\bin\Debug\10.1GDI+的工作原理.exe
+F:\VS C#文件\第10章节 GDI+绘制图形\10.1GDI+的工作原理\10.1GDI+的工作原理\bin\Debug\10.1GDI+的工作原理.pdb
+F:\VS C#文件\第10章节 GDI+绘制图形\10.1GDI+的工作原理\10.1GDI+的工作原理\obj\x86\Debug\10.1GDI+的工作原理.exe
+F:\VS C#文件\第10章节 GDI+绘制图形\10.1GDI+的工作原理\10.1GDI+的工作原理\obj\x86\Debug\10.1GDI+的工作原理.pdb

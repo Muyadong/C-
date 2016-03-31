@@ -1,0 +1,7 @@
+F:\VS C#文件\第10章节 GDI+绘制图形\10.3GDI+绘制曲线\10.3GDI+绘制曲线\bin\Debug\10.3GDI+绘制曲线.exe
+F:\VS C#文件\第10章节 GDI+绘制图形\10.3GDI+绘制曲线\10.3GDI+绘制曲线\bin\Debug\10.3GDI+绘制曲线.pdb
+F:\VS C#文件\第10章节 GDI+绘制图形\10.3GDI+绘制曲线\10.3GDI+绘制曲线\obj\x86\Debug\_10._3GDI_绘制曲线.Form1.resources
+F:\VS C#文件\第10章节 GDI+绘制图形\10.3GDI+绘制曲线\10.3GDI+绘制曲线\obj\x86\Debug\_10._3GDI_绘制曲线.Properties.Resources.resources
+F:\VS C#文件\第10章节 GDI+绘制图形\10.3GDI+绘制曲线\10.3GDI+绘制曲线\obj\x86\Debug\10.3GDI+绘制曲线.csproj.GenerateResource.Cache
+F:\VS C#文件\第10章节 GDI+绘制图形\10.3GDI+绘制曲线\10.3GDI+绘制曲线\obj\x86\Debug\10.3GDI+绘制曲线.exe
+F:\VS C#文件\第10章节 GDI+绘制图形\10.3GDI+绘制曲线\10.3GDI+绘制曲线\obj\x86\Debug\10.3GDI+绘制曲线.pdb

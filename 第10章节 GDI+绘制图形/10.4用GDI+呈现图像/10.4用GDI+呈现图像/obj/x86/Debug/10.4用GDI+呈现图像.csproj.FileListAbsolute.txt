@@ -1,0 +1,7 @@
+F:\VS C#文件\第10章节 GDI+绘制图形\10.4用GDI+呈现图像\10.4用GDI+呈现图像\bin\Debug\10.4用GDI+呈现图像.exe
+F:\VS C#文件\第10章节 GDI+绘制图形\10.4用GDI+呈现图像\10.4用GDI+呈现图像\bin\Debug\10.4用GDI+呈现图像.pdb
+F:\VS C#文件\第10章节 GDI+绘制图形\10.4用GDI+呈现图像\10.4用GDI+呈现图像\obj\x86\Debug\_10._4用GDI_呈现图像.Form1.resources
+F:\VS C#文件\第10章节 GDI+绘制图形\10.4用GDI+呈现图像\10.4用GDI+呈现图像\obj\x86\Debug\_10._4用GDI_呈现图像.Properties.Resources.resources
+F:\VS C#文件\第10章节 GDI+绘制图形\10.4用GDI+呈现图像\10.4用GDI+呈现图像\obj\x86\Debug\10.4用GDI+呈现图像.csproj.GenerateResource.Cache
+F:\VS C#文件\第10章节 GDI+绘制图形\10.4用GDI+呈现图像\10.4用GDI+呈现图像\obj\x86\Debug\10.4用GDI+呈现图像.exe
+F:\VS C#文件\第10章节 GDI+绘制图形\10.4用GDI+呈现图像\10.4用GDI+呈现图像\obj\x86\Debug\10.4用GDI+呈现图像.pdb
