@@ -1,0 +1,4 @@
+F:\VS C#文件\第5章节\5.7.3使用try...catch捕获异常\5.7.3使用try...catch捕获异常\bin\Debug\_5._7._3使用try._._.catch捕获异常.exe
+F:\VS C#文件\第5章节\5.7.3使用try...catch捕获异常\5.7.3使用try...catch捕获异常\bin\Debug\_5._7._3使用try._._.catch捕获异常.pdb
+F:\VS C#文件\第5章节\5.7.3使用try...catch捕获异常\5.7.3使用try...catch捕获异常\obj\x86\Debug\_5._7._3使用try._._.catch捕获异常.exe
+F:\VS C#文件\第5章节\5.7.3使用try...catch捕获异常\5.7.3使用try...catch捕获异常\obj\x86\Debug\_5._7._3使用try._._.catch捕获异常.pdb

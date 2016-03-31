@@ -1,0 +1,5 @@
+F:\VS C#文件\第5章节\5.4多异常的捕获\5.4多异常的捕获\bin\Debug\5.4多异常的捕获.exe
+F:\VS C#文件\第5章节\5.4多异常的捕获\5.4多异常的捕获\bin\Debug\5.4多异常的捕获.pdb
+F:\VS C#文件\第5章节\5.4多异常的捕获\5.4多异常的捕获\obj\x86\Debug\5.4多异常的捕获.exe
+F:\VS C#文件\第5章节\5.4多异常的捕获\5.4多异常的捕获\obj\x86\Debug\5.4多异常的捕获.pdb
+F:\VS C#文件\第5章节\5.4多异常的捕获\5.4多异常的捕获\obj\x86\Debug\5.4多异常的捕获.csprojResolveAssemblyReference.cache
