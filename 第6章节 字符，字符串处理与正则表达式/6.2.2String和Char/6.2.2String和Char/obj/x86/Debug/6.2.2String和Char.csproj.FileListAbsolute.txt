@@ -1,0 +1,4 @@
+F:\VS C#文件\第6章节\6.2.2String和Char\6.2.2String和Char\bin\Debug\6.2.2String和Char.exe
+F:\VS C#文件\第6章节\6.2.2String和Char\6.2.2String和Char\bin\Debug\6.2.2String和Char.pdb
+F:\VS C#文件\第6章节\6.2.2String和Char\6.2.2String和Char\obj\x86\Debug\6.2.2String和Char.exe
+F:\VS C#文件\第6章节\6.2.2String和Char\6.2.2String和Char\obj\x86\Debug\6.2.2String和Char.pdb

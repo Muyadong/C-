@@ -1,0 +1,7 @@
+F:\VS C#文件\第6章节\6.4.3ceshi\6.4.3ceshi\bin\Debug\6.4.3ceshi.exe
+F:\VS C#文件\第6章节\6.4.3ceshi\6.4.3ceshi\bin\Debug\6.4.3ceshi.pdb
+F:\VS C#文件\第6章节\6.4.3ceshi\6.4.3ceshi\obj\x86\Debug\_6._4._3ceshi.Form1.resources
+F:\VS C#文件\第6章节\6.4.3ceshi\6.4.3ceshi\obj\x86\Debug\_6._4._3ceshi.Properties.Resources.resources
+F:\VS C#文件\第6章节\6.4.3ceshi\6.4.3ceshi\obj\x86\Debug\6.4.3ceshi.csproj.GenerateResource.Cache
+F:\VS C#文件\第6章节\6.4.3ceshi\6.4.3ceshi\obj\x86\Debug\6.4.3ceshi.exe
+F:\VS C#文件\第6章节\6.4.3ceshi\6.4.3ceshi\obj\x86\Debug\6.4.3ceshi.pdb

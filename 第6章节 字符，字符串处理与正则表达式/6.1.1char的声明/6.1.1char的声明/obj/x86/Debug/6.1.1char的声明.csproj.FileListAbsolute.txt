@@ -1,0 +1,4 @@
+F:\VS C#文件\第6章节\6.1.1char的声明\6.1.1char的声明\bin\Debug\6.1.1char的声明.exe
+F:\VS C#文件\第6章节\6.1.1char的声明\6.1.1char的声明\bin\Debug\6.1.1char的声明.pdb
+F:\VS C#文件\第6章节\6.1.1char的声明\6.1.1char的声明\obj\x86\Debug\6.1.1char的声明.exe
+F:\VS C#文件\第6章节\6.1.1char的声明\6.1.1char的声明\obj\x86\Debug\6.1.1char的声明.pdb

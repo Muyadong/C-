@@ -1,0 +1,4 @@
+F:\VS C#文件\第6章节\6.3.1StringBuilder的定义\6.3.1StringBuilder的定义\bin\Debug\6.3.1StringBuilder的定义.exe
+F:\VS C#文件\第6章节\6.3.1StringBuilder的定义\6.3.1StringBuilder的定义\bin\Debug\6.3.1StringBuilder的定义.pdb
+F:\VS C#文件\第6章节\6.3.1StringBuilder的定义\6.3.1StringBuilder的定义\obj\x86\Debug\6.3.1StringBuilder的定义.exe
+F:\VS C#文件\第6章节\6.3.1StringBuilder的定义\6.3.1StringBuilder的定义\obj\x86\Debug\6.3.1StringBuilder的定义.pdb
