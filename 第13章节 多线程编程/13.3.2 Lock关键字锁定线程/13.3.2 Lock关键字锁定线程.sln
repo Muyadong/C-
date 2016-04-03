@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.3.2 Lock关键字锁定线程", "13.3.2 Lock关键字锁定线程\13.3.2 Lock关键字锁定线程.csproj", "{DFA1AD1A-5D1E-4C9D-A34B-0FDA59EAB2A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFA1AD1A-5D1E-4C9D-A34B-0FDA59EAB2A1}.Debug|x86.ActiveCfg = Debug|x86
+		{DFA1AD1A-5D1E-4C9D-A34B-0FDA59EAB2A1}.Debug|x86.Build.0 = Debug|x86
+		{DFA1AD1A-5D1E-4C9D-A34B-0FDA59EAB2A1}.Release|x86.ActiveCfg = Release|x86
+		{DFA1AD1A-5D1E-4C9D-A34B-0FDA59EAB2A1}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
