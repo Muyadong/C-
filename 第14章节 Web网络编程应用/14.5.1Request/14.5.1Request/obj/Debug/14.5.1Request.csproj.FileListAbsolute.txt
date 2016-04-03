@@ -1,0 +1,4 @@
+F:\VS C#文件\第14章节 Web网络编程应用\14.5.1Request\14.5.1Request\bin\14.5.1Request.dll
+F:\VS C#文件\第14章节 Web网络编程应用\14.5.1Request\14.5.1Request\bin\14.5.1Request.pdb
+F:\VS C#文件\第14章节 Web网络编程应用\14.5.1Request\14.5.1Request\obj\Debug\14.5.1Request.dll
+F:\VS C#文件\第14章节 Web网络编程应用\14.5.1Request\14.5.1Request\obj\Debug\14.5.1Request.pdb

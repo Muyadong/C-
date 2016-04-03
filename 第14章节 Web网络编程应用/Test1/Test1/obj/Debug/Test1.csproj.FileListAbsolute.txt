@@ -1,0 +1,4 @@
+F:\VS C#文件\第14章节 Web网络编程应用\Test1\Test1\bin\Test1.dll
+F:\VS C#文件\第14章节 Web网络编程应用\Test1\Test1\bin\Test1.pdb
+F:\VS C#文件\第14章节 Web网络编程应用\Test1\Test1\obj\Debug\Test1.dll
+F:\VS C#文件\第14章节 Web网络编程应用\Test1\Test1\obj\Debug\Test1.pdb

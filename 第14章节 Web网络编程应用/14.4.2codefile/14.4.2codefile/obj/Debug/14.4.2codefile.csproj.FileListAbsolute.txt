@@ -1,0 +1,4 @@
+F:\VS C#文件\第14章节 Web网络编程应用\14.4.2codefile\14.4.2codefile\bin\14.4.2codefile.dll
+F:\VS C#文件\第14章节 Web网络编程应用\14.4.2codefile\14.4.2codefile\bin\14.4.2codefile.pdb
+F:\VS C#文件\第14章节 Web网络编程应用\14.4.2codefile\14.4.2codefile\obj\Debug\14.4.2codefile.dll
+F:\VS C#文件\第14章节 Web网络编程应用\14.4.2codefile\14.4.2codefile\obj\Debug\14.4.2codefile.pdb
